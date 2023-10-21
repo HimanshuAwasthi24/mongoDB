@@ -1,0 +1,2 @@
+noSql database i.e non relational database
+it stores documents which is collection
